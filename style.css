@@ -1,0 +1,19 @@
+.navbar{
+    width: 80%;
+    margin: auto;
+}
+
+.container-card{
+    margin-top: 10%;
+    align-items: ;
+
+}
+
+.card-img-top{
+    height: 30vh;
+}
+
+.container-card .card{
+    margin-bottom: 25px;
+    border: none;
+}
